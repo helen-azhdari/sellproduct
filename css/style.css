@@ -1,0 +1,91 @@
+.header{
+    font-size: 15px;
+    font-family: b titr;
+    color: darkred;
+    text-align: center;
+    height: 100px;
+}
+.nav{
+    text-align: right;
+    background-color: cadetblue;
+}
+.body{
+    height: 650px;
+    font-size: 30px;
+    font-family: b nazanin;
+}
+
+.bala{
+    text-align: right;
+    background-color: blueviolet;
+    height: 50px;
+}
+
+.q-w-e{
+   height: 300px;
+   text-align: center;
+}
+
+.q{
+    height: 300px;
+    width: 30%;
+    display:inline-block;
+    float: left;
+    background-color: chocolate;
+}
+
+.w{
+    height: 300px;
+    width: 35%;
+    display:inline-block;
+    float: left;
+    background-color: cadetblue;
+}
+.imgg{
+    margin: 50px;
+    height: 200px;
+width: 200px;
+}
+
+.e{
+    height: 300px;
+    width: 35%;
+    display:inline-block;
+    float: left;
+    background-color: cyan;
+}
+
+.a-s-d{
+    height: 300px;
+    text-align: center;
+ }
+ 
+ .a{
+     height: 300px;
+     width: 30%;
+     display:inline-block;
+     float: left;
+     background-color: chocolate;
+ }
+ 
+ .s{
+     height: 300px;
+     width: 35%;
+     display:inline-block;
+     float: left;
+     background-color: cadetblue;
+ }
+ .imggg{
+     margin: 50px;
+     height: 200px;
+ width: 200px;
+ }
+ 
+ .d{
+     height: 300px;
+     width: 35%;
+     display:inline-block;
+     float: left;
+     background-color: cyan;
+ }
+ 
